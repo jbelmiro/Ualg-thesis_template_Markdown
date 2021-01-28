@@ -1,0 +1,1 @@
+This project provides a template for writing a PhD thesis in R Markdown, and rendering those files into a PDF formatted according to the requirements of the Universidade do Algarve.
